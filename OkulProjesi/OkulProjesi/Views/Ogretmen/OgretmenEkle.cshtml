@@ -1,0 +1,25 @@
+﻿@model Ogretmen
+@{
+    ViewData["Title"] = "Öğretmen Ekle";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Öğretmen Ekleme İşlemi</h1>
+    <form asp-action="OgretmenEkle" asp-controller="Ogretmen" method="post" class="card card-body shadow-sm">
+        <div class="mb-3">
+            <label asp-for="OgretmenAdı" class="form-label">Ad:</label>
+            <input asp-for="OgretmenAdı" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="OgretmenSoyAdı" class="form-label">Soyad:</label>
+            <input asp-for="OgretmenSoyAdı" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="OgretmenBolum" class="form-label">Bölüm:</label>
+            <input asp-for="OgretmenBolum" class="form-control" />
+        </div>
+        <div class="text-end">
+            <input type="submit" value="Kaydet" class="btn btn-primary" />
+        </div>
+    </form>
+</div>

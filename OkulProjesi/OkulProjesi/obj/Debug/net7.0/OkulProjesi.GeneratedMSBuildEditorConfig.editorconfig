@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OkulProjesi
+build_property.RootNamespace = OkulProjesi
+build_property.ProjectDir = C:\Users\Aziz\Desktop\Html\OkulProjesi\OkulProjesi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Aziz\Desktop\Html\OkulProjesi\OkulProjesi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Ders/DersDuzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1xEZXJzRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Ders/DersEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1xEZXJzRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Ders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Ogrenci/DersEkleSil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxEZXJzRWtsZVNpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Ogrenci/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Ogrenci/OgrenciDuzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxPZ3JlbmNpRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Ogrenci/OgrenciEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxPZ3JlbmNpRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Ogretmen/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Ogretmen/OgretmenDuzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5cT2dyZXRtZW5EdXplbmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Ogretmen/OgretmenEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRtZW5cT2dyZXRtZW5Fa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aziz/Desktop/Html/OkulProjesi/OkulProjesi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-p61hfjq905

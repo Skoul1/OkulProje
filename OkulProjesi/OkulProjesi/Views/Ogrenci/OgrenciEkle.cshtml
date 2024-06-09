@@ -1,0 +1,25 @@
+﻿@model Ogrenci
+@{
+    ViewData["Title"] = "AddStudent";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Öğrenci Ekleme İşlemi</h1>
+    <form asp-action="OgrenciEkle" asp-controller="Ogrenci" method="post" class="card card-body shadow-sm">
+        <div class="mb-3">
+            <label asp-for="OgrenciAd" class="form-label">Ad:</label>
+            <input asp-for="OgrenciAd" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="OgrenciSoyAd" class="form-label">Soyad:</label>
+            <input asp-for="OgrenciSoyAd" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="OgrenciNumarasi" class="form-label">Numara:</label>
+            <input asp-for="OgrenciNumarasi" class="form-control" />
+        </div>
+        <div class="text-end">
+            <input type="submit" value="Kaydet" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
